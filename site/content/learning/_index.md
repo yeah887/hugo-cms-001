@@ -1,7 +1,7 @@
 ---
 title: "Learnings"
 image: /img/about-jumbotron.jpg
-values:
+learnings:
   - heading: "Shade-grown coffee"
     text: >
       No!

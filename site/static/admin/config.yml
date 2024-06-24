@@ -82,12 +82,12 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image}
       - file: "site/content/learning/_index.md"
         label: "Learning Page"
-        name: "learning"
+        name: "learnings"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Learning
-            name: learning
+            name: learnings
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
