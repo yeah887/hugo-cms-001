@@ -20,6 +20,5 @@ learnings:
     heading: Learning results
     - image: img/illustrations-coffee.svg
       text: "Learnings step-by-step."
-
 ---
 
